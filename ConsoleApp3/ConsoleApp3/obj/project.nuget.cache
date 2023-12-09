@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mAFrLMIfxJg3sdHH70ewLz7zMYQE2S1M/pqmfUpWdBVWhZpqz8p4n/c2opdBR5JTp+rDp2R8ci0AsLFT0JcDuA==",
+  "success": true,
+  "projectFilePath": "D:\\ASP.Net\\Modeling-json-Api\\1.ConsolApp-json\\SERDESERLIST\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VA.ara\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
